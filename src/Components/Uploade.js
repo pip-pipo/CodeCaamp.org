@@ -23,7 +23,6 @@ export default function ImageUploade() {
         });
     });
   }
-
   return (
     <div>
       <form onSubmit={handleUpload}>

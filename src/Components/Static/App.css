@@ -151,7 +151,16 @@ cursor: pointer;
 
 .icon:hover{
    cursor: pointer;
-   color: rgb(155, 155, 151);
+   color: rgb(85, 4, 4);
 }
   
+}
+
+.App__midddle{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+.App__middle__box{
+    width:70%;
 }
